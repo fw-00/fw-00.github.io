@@ -1,17 +1,18 @@
 body {
-  
+   <!--background: grey;-->  
    background-color: coral;
 }
-<!--background: grey;-->
 
 p {
   color: rebeccapurple;
   font-size: 12px;
+  text-shadow: -2px 2px black;
 }
 
 h1 {
     color: purple;
     font-size: 50px;
+    font-family: fantasy;
 }
 
 h3 {
